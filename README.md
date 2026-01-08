@@ -1,9 +1,5 @@
-# work-hours-calculator
-A simple online tool to calculate daily work hours and overtime.
-This project is a simple online tool to calculate daily work hours and overtime. It is designed for workers, freelancers, and small teams to manage schedules accurately and improve time organization.
-
-The repository demonstrates basic HTML, CSS, and JavaScript for building productivity tools.
-
-For the full online calculator, visit:
+#calculadora-de-horas-de-trabalho
+Este projeto é uma ferramenta online simples para calcular horas trabalhadas diárias e horas extras. Ele foi criado para trabalhadores, freelancers e pequenas equipes que precisam organizar melhor a jornada de trabalho e evitar erros no controle de horários.
+O repositório demonstra conceitos básicos de HTML, CSS e JavaScript aplicados à criação de ferramentas de produtividade.
+Para acessar a calculadora completa online, visite:
 https://calculadora3.com.br/calculadora-de-horas-trabalhadas/
-
